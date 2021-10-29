@@ -10,4 +10,4 @@ for linux you should also install tkinter
 </h2>
 
 <b>Image from console</b>
-<img src="test.png">
+<img src="/src/tet.png">
